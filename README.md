@@ -1,6 +1,6 @@
 # JS_events
 
-A basics functionality with JavaScript
+A basics Events functionality with JavaScript
 
 ## Feature 1 :
 - On commence par un petit échauffement : lorsque l'utilisateur va cliquer sur le footer (portant le tag <footer>), tu vas afficher le mot "clique" en console.
